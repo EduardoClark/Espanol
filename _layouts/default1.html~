@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
     <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -12,6 +13,10 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     </head>
+<html>
+<header> <img src="http://www.crwflags.com/fotw/misc/wmx.gif"> <a href="http://eduardoclark.github.io/Espanol">Español</a>
+</br> <img src="http://www.crwflags.com/fotw/misc/wgb.gif"> <a href="http://eduardoclark.github.io">Ingles</a>
+</header>
     <body>
     <div class="wrapper">
       <header>
@@ -27,7 +32,7 @@
    
       </header>
 <footer>
-Este blog corre sobre <a href="http://jekyllrb.com/">Jekyll</a>, esta alojado en <a href="https://github.com">GitHub</a> y usa el diseño Minimal de <a href="https://github.com/orderedlist">Steve Smith's</a>.  
+Este blog corre sobre <a href="http://jekyllrb.com/">Jekyll</a>, esta alojado en <a href="https://github.com">GitHub</a> y usa el diseño Minimal de <a href="https://github.com/orderedlist">Steve Smith</a>.  
 </footer>
       <section>
 
